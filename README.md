@@ -1,7 +1,7 @@
 # Extended Wax Documentation 
 [Wax](https://minicomp.github.io/wax/) is a minimal computing project for producing digital exhibitions focused on longevity, low costs, and flexibility created by [Minicomp](https://github.com/minicomp/). [The] underlying technology is made to learn and to teach, and can produce beautifully rendered, high-quality image collections and scholarly exhibits. It's comprised of: a few Ruby gems for processing image data and associated metadata (wax_tasks, wax_iiif) and a Jekyll theme (wax_theme).
 
-![Wax demo header](src="https://github.com/user-attachments/assets/a40b3973-5716-4c23-b8ae-cf622b629ef9")
+![Wax demo header](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLfwwsr0vGOJsH9f5EJdD0ojWZ6OCdAo4jGw&s)
 
 
 Wax is, in my opinion, one of the best minimal platforms for creating truly beautiful, robust, and functional exhibits on the Web. However, many digital humanists (especially those with no technical background) find it difficult to get started with the platform. The [Wax documentation](https://minicomp.github.io/wiki/wax/) is currently a work in progress, but is not nearly comprehensive enough for users to navigate without significant background knowledge in Jekyll, web-building, and other technical know-how.
