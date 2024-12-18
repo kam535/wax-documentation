@@ -1,9 +1,10 @@
-___
+---
 layout: default
 title: "Creating your metadata file"
 parent: Building your collection
 nav_order: 3
 ---
+
 ### **Creating your metadata file**
 
 If you’re an advanced computer user, you can skip this section, as you’ll likely be able to make your own file from scratch.
