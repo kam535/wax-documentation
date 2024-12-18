@@ -1,6 +1,6 @@
 ---
 title: Adding your collection data
-layour: default
+layout: default
 parent: Setting up your site
 nav_order: 2
 ---
