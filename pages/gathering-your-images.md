@@ -3,6 +3,7 @@ title: Gathering your images
 layout: default
 parent: Building your collection
 nav_order: 4
+---
 
 ### **Gathering your images**
 
