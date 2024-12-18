@@ -1,7 +1,6 @@
 ---
 title: Before you get started
 layout: default
-nav_enabled: true
 nav_order: 1
 ---
 ## **Before you get started: knowledge dependencies**
