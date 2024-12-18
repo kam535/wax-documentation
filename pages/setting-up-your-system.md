@@ -1,4 +1,5 @@
 ---
+title: Setting Up Your System
 layout: default
 nav_enabled: true
 nav_order: 2
