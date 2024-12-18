@@ -1,4 +1,5 @@
 ---
+title: Building Your Collection
 layout: default
 nav_enabled: true
 nav_order: 3
