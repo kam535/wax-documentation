@@ -1,7 +1,7 @@
 ---
 title: Setting up your collection details
 layout: default
-parent: Building Your Collection
+parent: Building your collection
 nav_order: 1
 ---
 ### **Setting up your collection details**
