@@ -25,7 +25,7 @@ This folder contains the files that will make up your exhibit pages. Exhibits ar
 
 ### **`_includes`**
 
-This folder contains all of the includes for the site. An include is a file that can have its contents pulled using a specific line of code (an include statement) into another file. Include files typically contain the code for an element, tool, or feature of a site, like a gallery, a word cloud, or a timeline. To call an include, you’ll add the following statement to the code of your page: `{% include nameofinclude %}`. For more on includes, see the [Includes section of the Jekyll documentation](https://jekyllrb.com/docs/includes/).
+This folder contains all of the includes for the site. An include is a file that can have its contents pulled using a specific line of code (an include statement) into another file. Include files typically contain the code for an element, tool, or feature of a site, like a gallery, a word cloud, or a timeline. To call an include, you’ll add the an [include tag](https://jekyllrb.com/docs/includes/) to the code of your page. For more on includes, see the [Includes section of the Jekyll documentation](https://jekyllrb.com/docs/includes/).
 
 * **`collection_gallery.html`**: Creates a clickable, filterable gallery of thumbnail images of your collection. See the [Browse page on the Wax demo site](https://minicomp.github.io/wax/collection/).  
 * **`footer.html`:** The code for the footer (bottom section) of each page of the site.  
