@@ -7,7 +7,7 @@ nav_order: 7
 
 It’s important to understand what files do what in your repository so you’ll know what to edit where and can troubleshoot issues more easily. Files that are essential to the functioning of the site are highlighted. Here’s a breakdown of what each file in each folder does:
 
-### **.github**
+### **`.github`**
 
 This folder, and all of the files it contains, are used when you serve the site using GitHub Actions instead of directly through the main branch of your site. If you’ve already served your site through GitHub Pages and intend to keep it that way, you don’t need this file. If you want to know more, please see the [GitHub Actions section of the Jekyll documentation](https://jekyllrb.com/docs/continuous-integration/github-actions/).
 
