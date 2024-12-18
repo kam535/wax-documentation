@@ -1,4 +1,5 @@
 # Extended Wax Documentation 
+![Wax bee logo](https://repository-images.githubusercontent.com/113231984/b2b0b400-8220-11e9-85f5-0d159cbfed9a)
 [Wax](https://minicomp.github.io/wax/) is a minimal computing project for producing digital exhibitions focused on longevity, low costs, and flexibility created by [Minicomp](https://github.com/minicomp/). [The] underlying technology is made to learn and to teach, and can produce beautifully rendered, high-quality image collections and scholarly exhibits. It's comprised of: a few Ruby gems for processing image data and associated metadata (wax_tasks, wax_iiif) and a Jekyll theme (wax_theme).
 
 ![Wax demo header](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLfwwsr0vGOJsH9f5EJdD0ojWZ6OCdAo4jGw&s)
