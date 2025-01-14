@@ -15,7 +15,7 @@ Understanding how to use Wax is dependent first on a basic understanding of the 
 This seems like a whole laundry list, but in reality, many of the tools, languages, or systems on this list are easy to understand once you get the hang of them.
 
 Since the Git-related commands are run through the command line, I recommend learning the list of technical concepts in the order they appear above. You can use the resources below to get started:
-
+<img src="https://kam535.github.io/wax-documentation/images/dependencies.png" alt="logos for GitHub, Git, PowerShell, Terminal, and Jekyll; then 'html, css, md'">
 * Command Line:  
   * [What is Terminal on Mac? \- Apple Support](https://support.apple.com/guide/terminal/what-is-terminal-trmld4c92d55/mac)  
   * [macOS Terminal (zsh) - The Beginners' Guide](https://www.youtube.com/watch?v=ogWoUU2DXBU) (for Mac)  
