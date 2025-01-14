@@ -44,4 +44,10 @@ You'll need to open the `_config.yml` file and change the following:
     images:
       source: 'raw_images/qatar' # path to the directory of images within `_data`
 ```      
-
+| variable      | type accepted	| description	                                                    | used by      |
+|:--------------|:------------- |:----------------------------------------------------------------|:-------------|
+|collections    |hash           |the site collections                                             |wax and jekyll|
+|output         |true/false     |whether or not to output the collection to HTML.                 |jekyll        |
+|layout         |string         |which layout in `_layouts` the collection pages should use.      |wax and jekyll|
+|metadata:source|string         |path to the collection’s metadata file within the _data directory|wax           |
+|images:source  |string         |path to the collection’s directory of images within `_data`      |wax           |
