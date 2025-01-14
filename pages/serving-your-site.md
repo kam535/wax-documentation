@@ -13,7 +13,8 @@ You can serve your site in many ways, but two in particular are included in this
 **Note that some of the following content is copied from the Minicomp Wax Documentation and should be credited to [Minicomp](https://minicomp.github.io/wiki/)**.
 
 ### **Serving locally for development**
-If you’re running Wax directly on your machine, serving *should* be as simple as `bundle exec jekyll serve`
+If you’re running Wax directly on your machine, serving *should* be as simple as `bundle exec jekyll serve`.
+<br>
 If you’re in a Docker container, you’ll need to specify the host: `bundle exec jekyll serve --host 0.0.0.0`
 
 ## **Hosting / publishing online**
