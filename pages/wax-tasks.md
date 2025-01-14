@@ -6,10 +6,12 @@ nav_order: 3
 ---
 
 ## **Generating and adding derivatives, search info, and object pages**
-1. TOC
-{:toc}
 
 Wax has three tasks that automatically generate thumbnail and full image derivatives, individual pages, and search information for for your collection items. You'll need to run these tasks in your command line. **Note that much of the following content is copied from the Wax documentation and should be credited to Minicomp.** If you are building your project using Docker, you **must** see the [Running the main tasks section of the Wax Documentation](https://minicomp.github.io/wiki/wax/running-the-tasks/#running-the-main-tasks). Note that before running any tasks, you'll have to update your site's configuration in the _config.yml file first.
+
+### Table of Contents
+1. TOC
+{:toc}
 
 ### wax:derivatives
 There are two types of derivatives for Wax: simple and iiif. Simple derivatives will be produced in `.jpg` format. IIIF derivatives are produced as individual IIIF-compliant image tiles, canvases, collections, and manifests. If you're unfamiliar with IIIF, see the [IIIF website](https://iiif.io) for more information. If your collections include AV, multimedia, 3D, or pdf objects, you **must** use IIIF derivatives.
