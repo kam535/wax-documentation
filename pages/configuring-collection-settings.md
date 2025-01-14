@@ -26,8 +26,7 @@ You'll need to open the `_config.yml` file and change the following:
 * Replace `qatar.csv` with your metadata file name.
 * Replace `raw_images/qatar` with the filename of your folder of item files. 
 
-<code>
-collections:
+<code> collections:
   exhibits:
     output: true
   qatar:
