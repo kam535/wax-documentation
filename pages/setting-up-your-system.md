@@ -21,7 +21,9 @@ Since Wax uses your local machine to produce all of the static site pages and el
 * [Git](https://git-scm.com/)
 * [libvips](https://libvips.github.io/libvips/)
 * [GitHub Desktop](https://desktop.github.com/download/)
+* 
 <img src="https://kam535.github.io/wax-documentation/images/depen.png" alt="logos for GitHub Desktop, Git, Ruby, Image Magick, GhotScript, and Homebrew and a lightning bolt icon">
+
 ### Installing on Mac
 1. Open the Terminal.
   - If you've never used the Terminal before, open the **Applications** folder on your Mac. Open the **Utilities** folder and find **Terminal.app**.
