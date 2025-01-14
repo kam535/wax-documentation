@@ -1,7 +1,8 @@
 ---
-title: Customization and configuration
+title: Configuring collections settings
 layout: default
-nav_order: 8
+nav_order: 3
+parent: 
 ---
 
 ## Site settings
