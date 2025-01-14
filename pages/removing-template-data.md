@@ -13,7 +13,7 @@ Once you have your new template repository, you’ll need to make some changes t
 3. Paste the following into the command line: `bundle exec rake wax:clobber qatar`  
 4. Alternatively, you can open your project folder in the Finder or File Explorer GUI and delete the following directories and files:  
    * `_qatar`  
-   * anything in `img/derivative`s  
+   * anything in `img/derivatives`  
    * `_data/qatar-original.csv  `
    * `_data/qatar.csv`  
    * anything in `_data/raw_images` 
