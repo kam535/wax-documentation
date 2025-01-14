@@ -24,6 +24,7 @@ When you have your file open:
 1. List out your metadata **fields** across the top row of the spreadsheet. I recommend putting the pid field in the first column, first row (box A1).  
 2. In the column that has the pid field, list out the identifiers for each item in each row down the column (A2, A3, A4, etc.). **You’ll be creating a new row for each item.** Don’t include file extensions in the pid value (.jpg, .pdf, etc.).  
 3. Fill out the rest of the values for each item, according to the field that’s in each column.  
-   
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR-t1aYB8aH2xsXXUuMqPLpWJmPcOTA3GkCP5cUtGYrk1OGZWxAh6CDo_mqicyAnJ5jxHhU_BRgGPBJ/pubhtml?widget=true&amp;headers=false"></iframe>
 
 Once you have your completed metadata file, I recommend using [OpenRefine](https://openrefine.org) or another data cleanup tool to make sure your spreadsheet is ready to be read by a computer. Once it’s clean, you can download your metadata file. **Make sure the name of your metadata file is the same as the title of your collection.** For example, if my collection title is redvases, I’d name my metadata file redvases.csv. The recommended file type is a CSV (Comma Separated Values), but Wax also accepts YML, JSON, MD, and other file types. If you created a spreadsheet, you’ll have to download your metadata as a CSV.
