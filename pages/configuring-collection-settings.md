@@ -9,12 +9,14 @@ The main settings are direct from Jekyll. You can learn more through their [conf
 
 
 
-`title:            'Minicomp/Wax'
+```
+title:            'Minicomp/Wax'
 description:      'Minimal Exhibitions with Jekyll'
 url:              'https://minicomp.github.io'
 baseurl:          '/wax'
-copyright:        'Example copyright org, 2018'`
+copyright:        'Example copyright org, 2018'
 
+```
 
 
 ## Collection settings
@@ -29,8 +31,8 @@ You'll need to open the `_config.yml` file and change the following:
 * Replace `raw_images/qatar` with the filename of your folder of item files. 
 
 
-
-  `collections:
+```
+  collections:
   exhibits:
     output: true
   qatar:
@@ -39,6 +41,6 @@ You'll need to open the `_config.yml` file and change the following:
     metadata:
       source: 'qatar.csv' # path to the metadata file within `_data`
     images:
-      source: 'raw_images/qatar' # path to the directory of images within `_data` `
-      
+      source: 'raw_images/qatar' # path to the directory of images within `_data`
+```      
 
