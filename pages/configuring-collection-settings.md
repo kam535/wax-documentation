@@ -7,7 +7,7 @@ nav_order: 8
 ## Site settings
 The main settings are direct from Jekyll. You can learn more through their [configuration guides](https://jekyllrb.com/docs/configuration/).
 
-<code>
+
 
 title:            'Minicomp/Wax'
 description:      'Minimal Exhibitions with Jekyll'
@@ -15,7 +15,7 @@ url:              'https://minicomp.github.io'
 baseurl:          '/wax'
 copyright:        'Example copyright org, 2018'
 
-</code>
+
 
 ## Collection settings
 Wax leverages [Jekyll collections](https://jekyllrb.com/docs/step-by-step/09-collections/) for much of its functionality, therefore some of the keys below are from Jekyll while others are Wax-specific.
@@ -28,7 +28,7 @@ You'll need to open the `_config.yml` file and change the following:
 * Replace `qatar.csv` with your metadata file name.
 * Replace `raw_images/qatar` with the filename of your folder of item files. 
 
-<code>
+
 
   collections:
   exhibits:
@@ -41,4 +41,4 @@ You'll need to open the `_config.yml` file and change the following:
     images:
       source: 'raw_images/qatar' # path to the directory of images within `_data`
       
-</code>
+
