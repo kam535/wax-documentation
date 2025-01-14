@@ -1,5 +1,5 @@
 ---
-title: Wax Tasks
+title: Running Wax tasks
 layout: default
 parent: Setting up your site
 nav_order: 3
