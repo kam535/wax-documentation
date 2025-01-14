@@ -51,3 +51,28 @@ You'll need to open the `_config.yml` file and change the following:
 |layout         |string         |which layout in `_layouts` the collection pages should use.      |wax and jekyll|
 |metadata:source|string         |path to the collection’s metadata file within the _data directory|wax           |
 |images:source  |string         |path to the collection’s directory of images within `_data`      |wax           |
+
+## Search settings
+The search variable can create multiple indexes, though just one (main) is recommended. For Wax to use search it needs to a search index, which will be saved as a JSON file. You must change the name of the collection below from `qatar` to your collection name.
+
+```
+search:
+  main:
+    index: '/search/index.json' # file the index will get written to
+    collections:
+      qatar:
+        content: false # whether or not to index page content
+        fields: # the metadata fields to index
+          - artist
+          - location
+          - label
+          - _date
+          - object_type
+          - current_location
+```
+| variable |	type accepted	| description	| used by |
+|:-------- | :-------- | :-------- |      :-------- |
+| index	| string | the path (within the root of the site) to write the index to | wax |
+| collections	| hash |	which collections (as defined in collections above) will be indexed	| wax |
+| content	| true/false |	within a collection: whether or not to index the page content in addition to the metadata in the front matter	| wax |
+| fields	| list |	within a collection: the metadata fields to index |	wax |
