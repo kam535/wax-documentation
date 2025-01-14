@@ -15,6 +15,8 @@ Along with your metadata, you’ll also need to gather the files that have all o
 3. Rename your files according to their pid. Each name must be unique and must match the pid exactly, except for the file extension (.jpg, .pdf, etc.).  
 4. If you have not already, create a metadata file.
 
+<img src="https://minicomp.github.io/wiki/assets/image-files.png" alt="Minicomp's screenshot of a screen showing the folder path from an image folder to individual image files">
+
 Your collection should now consist of:
 
 * **A directory of items: images, text, or object files.** The items can be in various formats (jpg, pdf, etc.).  
