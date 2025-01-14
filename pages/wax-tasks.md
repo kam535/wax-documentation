@@ -17,20 +17,25 @@ There are two types of derivatives for Wax: simple and iiif. Simple derivatives 
 #### wax:derivatives:simple
 To run the task, simply run the following command in the command line: `bundle exec rake wax:derivatives:simple YOUR_COLLECTION_NAME`
 <br>
+<br>
 YOUR_COLLECTION_NAME should be replaced with the name of the collection you're running the task for. This task will produce image derivatives in the `img/derivatives/simple` folder of your project repository, including both a `full` and `thumbnail` image. It will also add the short URLs to these images to your items' metadata records.
 
 #### wax:derivatives:iiif
 To run the task, simply run the following command in the command line: `bundle exec rake wax:derivatives:iiif YOUR_COLLECTION_NAME`
+<br>
 <br>
 YOUR_COLLECTION_NAME should be replaced with the name of the collection you're running the task for. This task will produce image tiles, json manifest files, and IIIF derivatives in the `img/derivatives/iiif` folder of your project repository, including both a `full` and `thumbnail` image. It will also add the short URLs to these images to your items' metadata records.
 
 ### wax:pages
 The Wax pages task generates an individual page for each item in your collection, in a folder titled `_YOUR_COLLECTION_NAME`. These pages display individually on your project site as the main page for each object.
 <br>
+<br>
 To run the task, run the following command in the command line: `bundle exec rake wax:pages YOUR_COLLECTION_NAME`.
+<br>
 YOUR_COLLECTION_NAME should be replaced with the name of the collection you're running the task for. This task will produce Markdown files for each item in your collection, named after each item's `pid`.
 
 ### wax:search
 The Wax search task generates an index for thr search feature of your site so that you can search for items by any of the metadata fields included in your metadata file.
+<br>
 <br>
 To run the task, run the following command in the command line: `bundle exec rake wax:search SEARCH_NAME`. Unless you've changed it in your `_config.yml` file, SEARCH-NAME should be replaced with **main**.
