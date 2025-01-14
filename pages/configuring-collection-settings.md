@@ -1,8 +1,8 @@
 ---
 title: Configuring collections settings
 layout: default
-nav_order: 3
-parent: 
+nav_order: 2
+parent: Setting up your site
 ---
 
 ## Site settings
