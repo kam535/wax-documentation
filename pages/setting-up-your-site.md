@@ -20,6 +20,6 @@ You can also use the Wax template through GitHub.com:
 6. Run the `git clone` command followed by the repository URL you copied in step 4: `git clone https://github.com/your-username/your-repo-name.git`
 7. A new project folder `your-repo-name` will appear in the directory you specified in step 5. The name depends on your repository name on GitHub.com
 
-
+<img src="https://kam535.github.io/wax-documentation/images/site-screenshot.png" alt="screenshot of the Wax demo site homepage">
 
 
