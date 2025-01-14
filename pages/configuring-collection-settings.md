@@ -80,7 +80,7 @@ search:
 | fields	| list |	within a collection: the metadata fields to index |	wax |
 
 ## Menu settings
-The menu defined in `_config.yml` is used in the site’s header. This is the navigation bar that will appear at the top of the screen on all pages.
+The menu defined in `_config.yml` is used in the site’s header. This is the navigation bar that will appear at the top of the screen on all pages. The link for each label connects to the Jekyll front matter of a page. To set the link on for a page, you'll have to open the page, add/edit a `permalink` attribute in the front matter, and write the link you want to use after that attribute.
 
 ```
 menu:
@@ -129,3 +129,10 @@ footer:
     - img: '/assets/logo.png'
     - img: 'https://example.com/logo.png'
       link: 'https://example.com'
+
+| variable |	type accepted	| description	| used by |
+|:-------|:-----|:-----|:-----|
+| links | list	| list of link/URL items | wax |
+| label |	string	| the human-readable label for the link or dropdown	| wax |
+| link |	string	| the relative (internal) or absolute (external) link |	wax |
+| logos |	list | a list of the logo items for the footer to display	| wax |
