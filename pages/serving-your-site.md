@@ -15,7 +15,7 @@ You can serve your site in many ways, but two in particular are included in this
 ### **Serving locally for development**
 If you’re running Wax directly on your machine, serving *should* be as simple as `bundle exec jekyll serve`.
 <br>
-If you’re in a Docker container, you’ll need to specify the host: `bundle exec jekyll serve --host 0.0.0.0`
+If you’re in a Docker container, you’ll need to specify the host: `bundle exec jekyll serve --host 0.0.0.0`.
 
 ## **Hosting / publishing online**
 There are many options. Our demo uses GitHub pages. You can use any hosting service of your choice, but the Wax demo uses GitHub Pages, which allows you to serve and host a site for free in a GitHub repository. 
