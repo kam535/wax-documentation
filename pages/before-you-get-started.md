@@ -32,3 +32,11 @@ Since the Git-related commands are run through the command line, I recommend lea
 * Jekyll  
   * [Building a static website with Jekyll and GitHub Pages, Programming Historian](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages#visual-design-)  
   * [Front Matter, Jekyll • Simple, blog-aware, static sites](https://jekyllrb.com/docs/front-matter/)
+ 
+### How do I know if I know enough?
+This is relative, but my best estimate would be that if you can do the following, you're probably prepared to start working with Wax:
+* Change directories using a command in the command line. Successfully run a command using the command line.
+* Create a respository in GitHub. Create a file and add content in GitHub. Create a folder in GitHub.
+* Understand basic differences between HTML and Markdown.
+* Write some Jekyll front matter for a page.
+
