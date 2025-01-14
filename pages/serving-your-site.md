@@ -10,7 +10,7 @@ nav_order: 5
 
 You can serve your site in many ways, but two in particular are included in this documentation: locally or through GitHub Pages. If you choose to serve your site locally, note that it will not be available on the World Wide Web. Serving locally serves the purpose of checking your site before you publish it publicly online. For instructions on serving your site, see the [Serving your site section](https://minicomp.github.io/wiki/wax/serving/) of the Wax documentation.
 
-**Note that the following content is copied from the Minicomp Wax Documentation and should be credited to Minicomp**
+**Note that some of the following content is copied from the Minicomp Wax Documentation and should be credited to [Minicomp](https://minicomp.github.io/wiki/)**
 
 ### **Serving locally for development**
 If you’re running Wax directly on your machine, serving *should* be as simple as `bundle exec jekyll serve`
