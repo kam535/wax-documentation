@@ -116,7 +116,7 @@ menu:
 
 ## Footer settings
 The theme’s footer uses the site’s title, description, and copyright by default and optionally takes a list of navigation links and logos from the variables below.
-
+```
 footer:
   links:
     - label: 'GitHub'
@@ -129,6 +129,7 @@ footer:
     - img: '/assets/logo.png'
     - img: 'https://example.com/logo.png'
       link: 'https://example.com'
+```
 
 | variable |	type accepted	| description	| used by |
 |:-------|:-----|:-----|:-----|
