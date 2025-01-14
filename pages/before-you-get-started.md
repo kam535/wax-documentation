@@ -19,8 +19,8 @@ Since the Git-related commands are run through the command line, I recommend lea
 * Command Line:  
   * [What is Terminal on Mac? \- Apple Support](https://support.apple.com/guide/terminal/what-is-terminal-trmld4c92d55/mac)  
   * [macOS Terminal (zsh) - The Beginners' Guide](https://www.youtube.com/watch?v=ogWoUU2DXBU) (for Mac)  
-  * [Introduction to the Bash Command Line | Programming Historian](https://programminghistorian.org/en/lessons/intro-to-bash)  
-  * [Windows commands | Microsoft Learn](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)  
+  * [Introduction to the Bash Command Line, Programming Historian](https://programminghistorian.org/en/lessons/intro-to-bash)  
+  * [Windows commands, Microsoft Learn](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)  
 * Git & GitHub  
   * [Git and GitHub Tutorial for Beginners](https://www.youtube.com/watch?v=tRZGeaHPoaw)  
   * [Git \- Documentation](https://git-scm.com/doc)  
@@ -30,5 +30,5 @@ Since the Git-related commands are run through the command line, I recommend lea
   * [CSS Introduction](https://www.w3schools.com/css/css_intro.asp)  
   * [Markdown Guide](https://www.markdownguide.org/)  
 * Jekyll  
-  * [Building a static website with Jekyll and GitHub Pages | Programming Historian](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages#visual-design-)  
-  * [Front Matter | Jekyll • Simple, blog-aware, static sites](https://jekyllrb.com/docs/front-matter/)
+  * [Building a static website with Jekyll and GitHub Pages, Programming Historian](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages#visual-design-)  
+  * [Front Matter, Jekyll • Simple, blog-aware, static sites](https://jekyllrb.com/docs/front-matter/)
