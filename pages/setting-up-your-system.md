@@ -14,7 +14,7 @@ Since Wax uses your local machine to produce all of the static site pages and el
 
 ### Requirements
 * [Homebrew](https://brew.sh) (on Mac OS)
-* [Ruby](https://www.ruby-lang.org/en/) (a recent version); this version should be set up so that it does not conflict or overwrite your system's endemic Ruby version. See [rbenv](https://rbenv.org) or [RVM](https://rvm.io)for details
+* [Ruby](https://www.ruby-lang.org/en/) (a recent version); this version should be set up so that it does not conflict or overwrite your system's endemic Ruby version. See [rbenv](https://rbenv.org) or [RVM](https://rvm.io) for details
 * Bundler (as part of your Ruby installation)  
 * [Image Magick](https://imagemagick.org/script/download.php)  
 * [Ghostscript](https://www.ghostscript.com/)
