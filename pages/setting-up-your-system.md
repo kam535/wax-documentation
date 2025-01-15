@@ -6,10 +6,12 @@ nav_order: 3
 
    
 ## **Setting up your system**
-1. TOC
-{:toc}
 
 Since Wax uses your local machine to produce all of the static site pages and elements in HTML, CSS, and Javascript, using Wax requires you to install dependencies on your machine. This documentation will only include the full text and an extension of Minicomp's [Manual Installation Guide](https://minicomp.github.io/wiki/wax/setting-up-your-system/install-manually/). If you wish to use Docker, please see the [Docker Installation Guide](https://minicomp.github.io/wiki/wax/setting-up-your-system/with-docker/). 
+
+**Table of Contents**
+1. TOC
+{:toc}
 
 **Note that some of the content below has been copied from the [original Wax documentation](https://minicomp.github.io/wiki/wax/) and can be credited to Minicomp and its contributors.**
 
