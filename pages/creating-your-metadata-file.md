@@ -1,14 +1,15 @@
 ---
 layout: default
-title: "Creating your metadata file"
+title: Adding your metadata
 parent: Building your collection
 nav_order: 3
 ---
+## Adding your metadata
 **Table of Contents**
 1. TOC
 {:toc}
 
-## What is metadata?
+### What is metadata?
 Metadata is literally “data about data”. μετα is a Greek preposition and prefix meaning “with”, “next to”, “after”, or “beside”, so meta + data is data with data. You see metadata all the time and probably don’t realise it. One example of metadata are the labels that you see next to artworks in museums.
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/ebarney/5312897134/in/photostream/" title="Museum Label: My Daughter Gladys"><img src="https://live.staticflickr.com/5005/5312897134_c01d45e3d5_k.jpg" width="2048" height="1536" alt="Museum Label: My Daughter Gladys"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 These labels describe a piece of art briefly by listing the artist, the title of a work, the place of origin, the date, and other descriptive information that gives you context about the work. This information is often called tombstone information. Museum labels sometimes have longer descriptions of the work too. You can think about creating metadata for your collection items like creating tombstone information and descriptions for them.
@@ -19,7 +20,7 @@ Metadata schema also usually contain rules for how the values in each field are 
 
 To create a collection, you’re going to have to come up with your own metadata scheme by coming up with a list of fields that you want to use to describe your items. The Wax documentation lists which metadata fields are required, recommended, and discouraged/forbidden (the latter may conflict with files that Wax’s processes in the command line will overwrite). Once you’ve done that, proceed to the next section.
 
-## **Creating your metadata file**
+### **Creating your metadata file**
 
 If you’re an advanced computer user, you can skip this section, as you’ll likely be able to make your own file from scratch.
 
