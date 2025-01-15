@@ -17,3 +17,6 @@ General troubleshooting tips:
 * When something goes wrong, check the `_config.yml` file and your collections sites first. Make sure your sources are correct for metadata and images. Make sure there aren't any typos.
 * If something looks off with your individual collection item pages, check the Jekyll front matter for that page. Make sure there aren't any typos and that your metadata on the page matches the metadata in your metadata file.
 * Make sure you're running the Wax tasks every time you make changes to a file, add an image, or add a collection item. You'll need to update the search index, pages, and derivatives each time you make a change that would affect the metadata of the collection.
+
+### Get help
+You can get help for all of your Wax-related problems and questions by joining the [Code4Lib Slack](https://docs.google.com/forms/d/e/1FAIpQLSeD77mBp0Y13mFePF8UmDwFrlbxNx3VttEjz_3dgglJeK-Zbg/viewform?c=0&w=1) and the **#minicomp-wax** channel. You can also reach out to the editor of this documentation, Kiran, at kam535@cornell.edu for help.
