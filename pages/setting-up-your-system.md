@@ -31,16 +31,14 @@ Since Wax uses your local machine to produce all of the static site pages and el
 1. Open the Terminal.
   - If you've never used the Terminal before, open the **Applications** folder on your Mac. Open the **Utilities** folder and find **Terminal.app**.
 2. Check to see if you have Homebrew installed by pasting `brew -v` into the command line and pressing the **return** key.
-  - If you do not have [Homebrew](https://brew.sh) installed, run the following command: <br>
-    `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`. <br>
-    Follow the [Homebrew installation instruction](https://brew.sh).
+  - If you do not have [Homebrew](https://brew.sh) installed, follow the [Homebrew installation instructions](https://brew.sh).
 3. Install Git and Gnupg by running the following command: <br>
 `brew install git gnupg`
 4. Install Ghostscript, libvips, and ImageMagick by running the following command:<br>
 `brew install imagemagick ghostscript libvips`
 5. Lastly, install Ruby using RVM by running the following commands: <br>
-`gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB` <br>
-`\curl -sSL https://get.rvm.io | bash`
+*`gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB` <br>
+*`\curl -sSL https://get.rvm.io | bash`
 6. Quit and reopen the terminal. Then run the following command to get a Ruby version that comes with Bundler: <br>
 `rvm install 2.7.2`
 7. Install GitHub Desktop by going to the [download page](https://desktop.github.com/download/) and following the instructions.
