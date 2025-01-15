@@ -4,13 +4,15 @@ layout: default
 nav_order: 2
 parent: Setting up your site
 ---
+## Configuring settings
+
 **Table of Contents**
 1. TOC
 {:toc}
 
 Note that you must change the site settings, collection settings, and menu settings before your site will work properly. You must change the collection settings before you run the Wax tasks in future steps.
 
-## Site settings
+### Site settings
 The main settings are direct from Jekyll. You can learn more through their [configuration guides](https://jekyllrb.com/docs/configuration/).
 
 
@@ -25,7 +27,7 @@ copyright:        'Example copyright org, 2018'
 ```
 
 
-## Collection settings
+### Collection settings
 Wax leverages [Jekyll collections](https://jekyllrb.com/docs/step-by-step/09-collections/) for much of its functionality, therefore some of the keys below are from Jekyll while others are Wax-specific.
 
 Below, two collections — exhibits and your-collection-name — are configured. They are made up of Markdown files in `_exhibits` and `_qatar` respectively. Exhibits contains regualr written Markdown files, so it only needs `output: true` in its config. The collection you'be been building in the last few steps is a Wax image/media collection and needs more info to be processed.
@@ -57,7 +59,7 @@ You'll need to open the `_config.yml` file and change the following:
 |metadata:source|string         |path to the collection’s metadata file within the _data directory|wax           |
 |images:source  |string         |path to the collection’s directory of images within `_data`      |wax           |
 
-## Search settings
+### Search settings
 The search variable can create multiple indexes, though just one (main) is recommended. For Wax to use search it needs to a search index, which will be saved as a JSON file. You must change the name of the collection below from `qatar` to your collection name.
 
 ```
@@ -82,7 +84,7 @@ search:
 | content	| true/false |	within a collection: whether or not to index the page content in addition to the metadata in the front matter	| wax |
 | fields	| list |	within a collection: the metadata fields to index |	wax |
 
-## Menu settings
+### Menu settings
 The menu defined in `_config.yml` is used in the site’s header. This is the navigation bar that will appear at the top of the screen on all pages. The link for each label connects to the Jekyll front matter of a page. To set the link on for a page, you'll have to open the page, add/edit a `permalink` attribute in the front matter, and write the link you want to use after that attribute.
 
 ```
@@ -117,7 +119,7 @@ menu:
 | link |	string	| the relative (internal) or absolute (external) link |	wax |
 | sub	list|	a list of sub items for a dropdown	| wax |
 
-## Footer settings
+### Footer settings
 The theme’s footer uses the site’s title, description, and copyright by default and optionally takes a list of navigation links and logos from the variables below.
 ```
 footer:
