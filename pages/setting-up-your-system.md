@@ -37,8 +37,8 @@ Since Wax uses your local machine to produce all of the static site pages and el
 4. Install Ghostscript, libvips, and ImageMagick by running the following command:<br>
 `brew install imagemagick ghostscript libvips`
 5. Lastly, install Ruby using RVM by running the following commands: <br>
-*`gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB` <br>
-*`\curl -sSL https://get.rvm.io | bash`
+* `gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB` <br>
+* `\curl -sSL https://get.rvm.io | bash`
 6. Quit and reopen the terminal. Then run the following command to get a Ruby version that comes with Bundler: <br>
 `rvm install 2.7.2`
 7. Install GitHub Desktop by going to the [download page](https://desktop.github.com/download/) and following the instructions.
