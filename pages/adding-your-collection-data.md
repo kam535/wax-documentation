@@ -4,7 +4,7 @@ layout: default
 parent: Setting up your site
 nav_order: 2
 ---
-### **Adding your collection data**
+## **Adding your collection data**
 
 Now that you’ve cleaned up your project repository, you can add your collection data. You can distinguishes where the parts of your collection data go using the following table:
 | folder            | purpose                                   |
