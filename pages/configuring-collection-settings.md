@@ -1,10 +1,10 @@
 ---
-title: Configuring collections settings
+title: Configuring settings
 layout: default
 nav_order: 2
 parent: Setting up your site
 ---
-### Table of Contents
+**Table of Contents**
 1. TOC
 {:toc}
 
