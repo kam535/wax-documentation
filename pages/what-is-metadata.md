@@ -1,6 +1,6 @@
 ---
+title: What is metadata?
 layout: default
-tite: "What is metadata?"
 parent: Building your collection
 nav_order: 2
 ---
