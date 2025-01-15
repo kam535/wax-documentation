@@ -8,6 +8,8 @@ parent: Setting up your site
 1. TOC
 {:toc}
 
+Note that you must change the site settings, collection settings, and menu settings before your site will work properly. You must change the collection settings before you run the Wax tasks in future steps.
+
 ## Site settings
 The main settings are direct from Jekyll. You can learn more through their [configuration guides](https://jekyllrb.com/docs/configuration/).
 
