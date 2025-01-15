@@ -19,4 +19,4 @@ General troubleshooting tips:
 * Make sure you're running the Wax tasks every time you make changes to a file, add an image, or add a collection item. You'll need to update the search index, pages, and derivatives each time you make a change that would affect the metadata of the collection.
 
 ### Get help
-You can get help for all of your Wax-related problems and questions by joining the [Code4Lib Slack](https://docs.google.com/forms/d/e/1FAIpQLSeD77mBp0Y13mFePF8UmDwFrlbxNx3VttEjz_3dgglJeK-Zbg/viewform?c=0&w=1) and the **#minicomp-wax** channel. You can also reach out to the editor of this documentation, Kiran, at kam535@cornell.edu for help.
+You can get help for all of your Wax-related problems and questions by joining the [Code4Lib Slack](https://docs.google.com/forms/d/e/1FAIpQLSeD77mBp0Y13mFePF8UmDwFrlbxNx3VttEjz_3dgglJeK-Zbg/viewform?c=0&w=1) and the **#minicomp-wax** channel. You can also reach out to the editor of this documentation, [kam535](https://github.com/kam535), for help.
