@@ -23,7 +23,7 @@ To add a gallery, parallax image, or other include to your page, add a [Jekyll i
 
 Note that the home/front page of your site is the **`index.md`** file, which isn’t located in the pages folder.
 
-### Layouts
+### **Layouts**
 Wax five layouts for you to use and/or expand on: `wax/default.html`, `wax/page.html`, `wax/exhibit.html`, `wax/collection_item.html`, and `wax/reuse_page.html.`
 
 You can tell a page to use a layout by adding it to the page’s front-matter, for example:
