@@ -14,4 +14,21 @@ WaxBuilder includes tags in two places: the Browse page (at the bottom) and the 
 <i>The tags above the timeline page</i>
 <br>
 
-If you want to change what field the tags are populated from, you can specify this for the Timeline in the `_layouts/tags.html` file by replacing any instance of 'tTags' with your custom field. You can change what field are populated on the Browse page by specifying your custom fields in the `tag-carousel.html` include in the `browse.md` file.
+## Timeline tags
+If you want to change what field the tags are populated from, you can specify this for the Timeline in the `_layouts/tags.html` file by replacing any instance of 'tTags' with your custom field.
+<br>
+Timeline tags are managed by the following files:
+* `_includes/tag-carousel.html`
+* `tags.md`
+* `assets/javascript/tag-owl.js`
+* `_layouts/tags.html`
+
+## Browse tags
+You can change what field are populated on the Browse page by specifying your custom fields in the `tag-carousel.html` include in the `browse.md` file.
+<br>
+Browse tags are managed by the following files:
+* `_includes/tag-carousel.html`
+* `tags.md`
+* `browse.md`
+* `assets/javascript/tag-owl.js`
+* `_layouts/tags.html`
