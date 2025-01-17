@@ -13,7 +13,7 @@ There are lots of different customization options for making your site unique, l
 
 ### **Header**
 
-You can edit the formatting of the header by editing the **header.html** include. You can edit the title and navigation buttons in the header by editing settings in the **`_config.yml`** file.
+You can edit the formatting of the header by editing the **header.html** include. You can edit the title and navigation buttons in the header by editing settings in the **`_config.yml`** file. You can also change the aesthetics and content of the header in `_includes/header.html`. You can change the arrangement of the items in the navigation bar by editing the class settings for each element that includes 'navbar'. In line 11 of the include, for example, you can change `ul class='nav navbar-nav ml-auto justify-content-center'` to `ul class='nav navbar-nav ml-auto justify-content-end` to make all of the navbar items align with the left side of the screen. For all of your options, or to write new ones, see the `_sass/wax.scss` file.
 
 ### **Editing pages**
 
