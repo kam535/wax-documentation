@@ -65,7 +65,7 @@ meta:
 
 If you’d like to change the main title of the project or the organization of pages, collections, or exhibits, including the site’s navigation bar, you can do all of this in the **`_config.yml`** file. These edits are pretty straightforward: simply delete the content that’s within each pair of single quotes ‘ ’ in a line and replace it with your own. Remember to maintain the indenting that you see on the template for this page.
 
-### **Footer**
+### Footer
 
 You can edit the links and logo that appear in the footer in the `_config.yml` file. You can edit the formatting of the footer by editing the footer.html include.
 
@@ -79,7 +79,7 @@ You can edit the default text colors, background colors, and fonts for your site
 
 You can also edit the dimensions of thumbnail images and viewers in the `assets/styles.scss` file.
 
-### **Editing table**
+### Editing table
 This editing table is incomplete and will be continously updated as needed. If you have an element you're looking to edit that's not in this table, reach out to have it added:
 <br>
 
