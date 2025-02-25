@@ -3,7 +3,7 @@ title: Customization and configuration
 layout: default
 nav_order: 8
 ---
-## **Customization and configuration**
+## Customization and configuration
 
 There are lots of different customization options for making your site unique, like changing colours, header images, backgrounds, and more. As long as your changes are cosmetic, you can make customization changes in the GitHub.com interface. If you need to make any changes to your metadata file, it’s recommended that you do so in the local version of your repository and then push the changes to your GitHub.com version, since you’ll have to re-run all the Wax tasks to create pages, update the search index, and change derivatives.
 
