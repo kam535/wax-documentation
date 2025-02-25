@@ -81,7 +81,6 @@ You can also edit the dimensions of thumbnail images and viewers in the `assets/
 
 ### Editing table
 This editing table is incomplete and will be continously updated as needed. If you have an element you're looking to edit that's not in this table, reach out to have it added:
-<br>
 
 | Visual element | File |
 | ----- | ----- |
