@@ -5,6 +5,8 @@ nav_order: 2
 parent: WaxBuilder
 ---
 
+# Tags
+
 WaxBuilder includes tags in two places: the Browse page (at the bottom) and the Timeline page (at the top). These tags are populated based on the tTags field in your metadata file. If you click on a tag, it will populate a basic gallery layout of all the items that have that tag.
 <hr class="solid">
 <img src="https://kam535.github.io/wax-documentation/images/tags-timeline.png" alt="screenshot of the tags above the Timeline page">
