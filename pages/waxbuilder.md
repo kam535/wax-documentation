@@ -12,4 +12,5 @@ The parts of WaxBuilder that are not endemic to Wax and thus not included in the
 4. Data downloads
 5. Audio and video items
 <br>
+
 **WaxBuilder is the passion project of one person.** As such, it is still very much in development and is constantly worked on. If you notice gaps in this documentation or run into issues, feel free to email kam535@cornell.edu.
