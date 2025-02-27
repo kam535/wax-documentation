@@ -3,7 +3,7 @@ layout: page
 nav_order: 13
 title: WaxBuilder
 ---
-This section includes the documentation for WaxBuilder, the static site exhibit tool created from Wax and CollectionBuilder. The project is created and managed by the same person who wrote this documentation, so you can contact kam535 with additional questions.
+This section includes the documentation for [WaxBuilder](https://kam535.github.io/waxbuilder/), the static site exhibit tool created from Wax and CollectionBuilder. The project is created and managed by the same person who wrote this documentation, so you can contact kam535 with additional questions.
 The parts of WaxBuilder that are not endemic to Wax and thus not included in the documentation above are:
 <br>
 1. An interactive map
