@@ -6,8 +6,11 @@ title: WaxBuilder
 This section includes the documentation for WaxBuilder, the static site exhibit tool created from Wax and CollectionBuilder. The project is created and managed by the same person who wrote this documentation, so you can contact kam535 with additional questions.
 The parts of WaxBuilder that are not endemic to Wax and thus not included in the documentation above are:
 <br>
-1. The map
-2. The timeline
-3. All clickable subject, location, etc. tags
+1. An interactive map
+2. An interactive timeline
+3. Clickable subject, location, etc. tags
 4. Data downloads
 5. Audio and video items
+<br>
+<br>
+WaxBuilder is a passion project of one person. As such, it is still very much in development and is constantly worked on. If you notice gaps in this documentation or run into issues, feel free to email kam535@cornell.edu.
