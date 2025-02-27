@@ -5,7 +5,7 @@ parent: Setting up your site
 nav_order: 3
 ---
 
-## **Generating and adding derivatives, search info, and object pages**
+## Generating and adding derivatives, search info, and object pages
 
 Wax has three tasks that automatically generate thumbnail and full image derivatives, individual pages, and search information for for your collection items. You'll need to run these tasks in your command line. **Note that much of the following content is copied from the Wax documentation and should be credited to Minicomp.** If you are building your project using Docker, you **must** see the [Running the main tasks section of the Wax Documentation](https://minicomp.github.io/wiki/wax/running-the-tasks/#running-the-main-tasks). Note that before running any tasks, you'll have to update your site's configuration in the _config.yml file first.
 
