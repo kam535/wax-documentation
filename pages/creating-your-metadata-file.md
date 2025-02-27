@@ -20,7 +20,7 @@ Metadata schema also usually contain rules for how the values in each field are 
 
 To create a collection, you’re going to have to come up with your own metadata scheme by coming up with a list of fields that you want to use to describe your items. The Wax documentation lists which metadata fields are required, recommended, and discouraged/forbidden (the latter may conflict with files that Wax’s processes in the command line will overwrite). Once you’ve done that, proceed to the next section.
 
-### **Creating your metadata file**
+### Creating your metadata file
 
 If you’re an advanced computer user, you can skip this section, as you’ll likely be able to make your own file from scratch.
 
