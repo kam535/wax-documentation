@@ -14,3 +14,8 @@ The parts of WaxBuilder that are not endemic to Wax and thus not included in the
 <br>
 
 **WaxBuilder is the passion project of one person.** As such, it is still very much in development and is constantly worked on. If you notice gaps in this documentation or run into issues, feel free to email kam535@cornell.edu.
+
+**Features/bugs currently being worked on**:
+* Add pagination navbars to video player
+* Merge av layout with generic layout
+* Add individual docs to each folder
