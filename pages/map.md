@@ -4,6 +4,8 @@ layout: page
 nav_order: 1
 parent: WaxBuilder
 ---
+# Interactive map
+
 The interactive map is a feature of WaxBuilder taken and modified from the CollectionBuilder source code (thank you, Devin Becker). The map is a basic Leaflet map with cluster features. All map features are managed by the following files:
 * _includes/map-js.html
 * _layouts/map.html
