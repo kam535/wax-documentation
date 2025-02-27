@@ -100,7 +100,7 @@ This editing table is incomplete and will be continously updated as needed. If y
 | Collections (including default item page layout, collection metadata file, and image folder) | `_config.yml` |
 | Search fields | `_config.ym` |
 | Navigation bar/menu items and links | `_config.yml`|
-| Navbar justification | `header/html` |
+| Navbar justification | `header.html` |
 | Front page banner image | `index.md` |
 | Collection metadata | `_data` |
 | Collection images | `_data/raw_images` |
